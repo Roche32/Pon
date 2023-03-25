@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.polop {
+  position: absolute;
+  height: 100px;
+  background-color: grey;
+  width: 100px;
+  left: 500px;
+  text-align: center;
+
+}
